@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>icons/like.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>images/default_music.png</file>
+        <file>images/pinkwindow.jpg</file>
+        <file>styles/style.qss</file>
+        <file>icons/likes.png</file>
+        <file>icons/listensongs.png</file>
+        <file>icons/waveform-custom.png</file>
+        <file>icons/playlist.png</file>
+        <file>icons/plus-square.svg</file>
+    </qresource>
+</RCC>
